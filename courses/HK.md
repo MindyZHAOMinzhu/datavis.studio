@@ -279,4 +279,5 @@ Recommended readings: https://datajournalism.tools
 
 The module introduces the practical skills and use of tools for information design and graphic communication from its inception and concept development to its completion. Students can learn and apply the visual languages and graphical skills for producing information based news stories as well as publishing and broadcasting in journalism aspects.
 
+### Test
 
